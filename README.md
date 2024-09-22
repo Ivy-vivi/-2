@@ -1,4 +1,4 @@
-# 一、csdn搜索C++环境配置方法，过程顺利
+# 一、csdn搜索C++环境配置方法，过程顺利。
 # 二、安装opencv库
 ## 1.开始用APT安装opencv库
 ### 问题：vscode中找不到opencv库，询问gpt,在CmakeLists.txt中添加opencv库的搜索路径，并重新编译项目。尝试几次后重启才成功。
