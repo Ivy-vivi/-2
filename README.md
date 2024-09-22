@@ -2,7 +2,7 @@
 # 二、安装opencv库
 ## 1.开始用APT安装opencv库
 ### 问题：vscode中找不到opencv库，询问gpt,在CmakeLists.txt中添加opencv库的搜索路径，并重新编译项目。尝试几次后重启才成功。
-![](pictures/Screenshot from 2024-09-19 20-39-29.png)
+![](picturea/Screenshot from 2024-09-19 20-39-29.png)
 
 
 
